@@ -4,6 +4,7 @@ metadata:
   name: "nodejs001"
   description: An example template
   annotations:
+    github.com/project-slug: UdayKunta/nodejs001
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
